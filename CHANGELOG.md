@@ -3,7 +3,7 @@
 BUG FIXES:
 
 * Made `terraform output` CLI help documentation consistent with web-based documentation ([GH-29354])
-
+#Updating changelog
 
 ## Previous Releases
 
